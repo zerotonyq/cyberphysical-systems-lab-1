@@ -1,0 +1,11 @@
+path: /home/alexander/cyberphiz_cv_antoha_gigachadov/project/data/cppe5_yolo
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: coverall
+  1: face_shield
+  2: gloves
+  3: goggles
+  4: mask
+nc: 5
